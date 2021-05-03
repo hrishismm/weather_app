@@ -1,0 +1,28 @@
+Sample JSON Data after passing it into an array
+[
+
+  {
+    coord: { lon: 73.8553, lat: 18.5196 },
+    weather: [ [Object] ],
+    base: 'stations',
+    main: {
+      temp: 301.3,
+      feels_like: 301.68,
+      temp_min: 301.3,
+      temp_max: 301.3,
+      pressure: 1010,
+      humidity: 49,
+      sea_level: 1010,
+      grnd_level: 949
+    },
+    visibility: 10000,
+    wind: { speed: 2.46, deg: 260, gust: 3.39 },
+    clouds: { all: 61 },
+    dt: 1620065192,
+    sys: { country: 'IN', sunrise: 1620002170, sunset: 1620048398 },
+    timezone: 19800,
+    id: 1259229,
+    name: 'Pune',
+    cod: 200
+  }
+]
